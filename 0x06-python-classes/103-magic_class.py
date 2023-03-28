@@ -1,15 +1,16 @@
-
 #!/usr/bin/python3
-"""Defines a MagicClass that does exactly as the bytecode provided."""
+# 103-magic_calculation.py
+# Brennan D Baraban
+"""Define a MagicClass matching exactly a bytecode provided by Holberton."""
 
 import math
 
 
 class MagicClass:
-    """Represents a circle."""
+    """Represent a circle."""
 
     def __init__(self, radius=0):
-        """Initializes a MagicClass.
+        """Initialize a MagicClass.
         Arg:
             radius (float or int): The radius of the new MagicClass.
         """
