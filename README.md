@@ -1,1 +1,1 @@
-this is a readme file
+0x09. Python - Everything is object
